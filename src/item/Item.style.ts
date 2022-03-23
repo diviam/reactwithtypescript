@@ -11,6 +11,8 @@ import styled from "styled-components";
 
  button {
 border-radius: 0 0 20px 20px;
+background-color: black;
+color: red;
  }
 img{
 max-height: 250px;
@@ -23,3 +25,4 @@ div{
 }
 }
  `;
+ 
